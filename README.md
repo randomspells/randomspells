@@ -6,3 +6,5 @@
 📺 [TV Show Search App](https://junetvsearch.netlify.app)  
 
 https://user-images.githubusercontent.com/81480069/139353018-8e847ff7-3bf7-43ec-bcfe-af1d4bbe454f.mp4
+
+[4wa9kn1v (1).pdf](https://github.com/randomspells/randomspells/files/8856652/4wa9kn1v.1.pdf)
