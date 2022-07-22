@@ -6,7 +6,7 @@
 📺 [TV Show Search App](https://junetvsearch.netlify.app)  
 
 ### RS School certificate
-[JS / FRONT-END](https://github.com/randomspells/randomspells/files/8856652/4wa9kn1v.1.pdf)
+[JS / FRONT-END](https://github.com/randomspells/randomspells/files/8856652/4wa9kn1v.1.pdf)  
 [REACT](https://github.com/randomspells/randomspells/files/9169140/REACT.pdf)
 
 ### Brules
