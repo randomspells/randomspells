@@ -7,6 +7,7 @@
 
 ### RS School certificate
 [JS / FRONT-END](https://github.com/randomspells/randomspells/files/8856652/4wa9kn1v.1.pdf)
+[REACT](https://github.com/randomspells/randomspells/files/9169140/REACT.pdf)
 
 ### Brules
 https://user-images.githubusercontent.com/81480069/139353018-8e847ff7-3bf7-43ec-bcfe-af1d4bbe454f.mp4
